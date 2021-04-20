@@ -1,4 +1,4 @@
-# shopping_analysis_playground
+# 超市购物分析
 
 ## How to View
 [分析报告 -- Jupyter Notebook](https://github.com/jezecheng/shopping_analysis_playground/blob/main/%E5%95%86%E5%8A%A1%E5%88%86%E6%9E%90%E4%B8%8E%E6%95%B0%E6%8D%AE%E5%8C%96%E8%BF%90%E8%90%A5.ipynb)
